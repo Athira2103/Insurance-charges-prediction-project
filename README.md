@@ -9,7 +9,7 @@ To predict insurance charges based on given features.
  
 **About The Dataset**
 
-This data was scraped from Kaggle. Below are a list and definitions of them:
+Below are a list and definitions of them:
 
 Charges: Total medical expense charged to the plan for the calendar year
 Age: Insurance policyholder’s age, ranging from 18 to 64
